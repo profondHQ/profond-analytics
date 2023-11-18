@@ -1,5 +1,3 @@
-
-
 ## How to run
 
 This assumes the local machine is running on Ubuntu
@@ -44,6 +42,12 @@ This assumes the local machine is running on Ubuntu
 11. Wait for 1-2 minutes until the setup and migration database of metabase is finish.
 Set up your metabase instance by visiting the [local metabase start URL](http://localhost:30000)
 If you are on a server, use `http://<server IP>:30000`.
+
+12. Login using this account:
+```
+User: admin@profond.ai
+Password: Profond123
+```
 
 ## Service - Port Mappings
 
