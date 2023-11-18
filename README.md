@@ -45,8 +45,8 @@ If you are on a server, use `http://<server IP>:30000`.
 
 12. Login using this account:
 ```
-User: admin@profond.ai
-Password: Profond123
+User: viewer@profond.ai
+Password: 9D9I2GYsyFh?3p
 ```
 
 ## Service - Port Mappings
