@@ -12,12 +12,12 @@ This assumes the local machine is running on Ubuntu
     git clone https://github.com/profondHQ/profond-analytics.git
     ```
 
-4. Enter the analytics-profond folder
+4. Enter the profond-analytics folder
 
     ```bash
-    cd analytics-profond
+    cd profond-analytics
     ```
-5. Download postgresql data from [here](https://drive.google.com/file/d/1OCPw0esKJQ563cs7BNt5p1e9TX1wTtMR/view?usp=sharing), unzip it and and put inside analytics-profond folder.
+5. Download postgresql data from [here](https://drive.google.com/file/d/1OCPw0esKJQ563cs7BNt5p1e9TX1wTtMR/view?usp=sharing), unzip it and and put inside profond-analytics folder.
 
 6. Convert `config/metabase_database.env.example` to `config/metabase_database.env`.
 7. Update the environment variables `MB_DB_PASS`, `MB_ENCRYPTION_SECRET_KEY` and save.
